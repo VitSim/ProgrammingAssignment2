@@ -58,3 +58,5 @@ cacheSolve <- function(x, ...) {
               x$setInverse(my_inverse)
               return(my_inverse)
   }
+
+## References: example given in the assignment description, discussion forums of the course and google.
